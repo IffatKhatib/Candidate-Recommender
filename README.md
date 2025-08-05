@@ -25,20 +25,20 @@ This web app helps match candidate resumes to job descriptions using semantic si
 
 ---
 
-## How to Run Locally
+## How to Run Locally:
 
 ```bash
 git clone https://github.com/yourusername/candidate-recommender.git
 cd candidate-recommender
 pip install -r requirements.txt
 streamlit run app.py
+```
+---  
 
-Notes & Assumptions
-Supports only English resumes and job descriptions
+## Notes & Assumptions:
 
-Assumes resumes are in readable PDF format or plain text
-
-Embeddings are generated using all-MiniLM-L6-v2
-
-AI-based candidate summaries were considered but removed for performance reasons (can be re-added using OpenAI or Hugging Face LLMs)
+- Supports only English resumes and job descriptions
+- Assumes resumes are in readable PDF format or plain text
+- Embeddings are generated using all-MiniLM-L6-v2
+- AI-based candidate summaries were considered but removed for performance reasons (can be re-added using OpenAI or Hugging Face LLMs)
 
