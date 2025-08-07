@@ -46,3 +46,19 @@ streamlit run app.py
 - Embeddings are generated using all-MiniLM-L6-v2
 - AI-based candidate summaries were considered but removed for performance reasons (can be re-added using OpenAI or Hugging Face LLMs)
 
+----
+
+## Live Demo
+
+[Try the App Here](https://candidate-recommender-ik.streamlit.app/)
+
+## Submission Package Includes
+
+- [Live Streamlit App](https://candidate-recommender-ik.streamlit.app/)
+- [GitHub Repository](https://github.com/IffatKhatib/Candidate-Recommender)
+- README.md
+- requirements.txt
+- app.py
+
+  
+
