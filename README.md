@@ -28,8 +28,12 @@ This web app helps match candidate resumes to job descriptions using semantic si
 ## How to Run Locally:
 
 ```bash
-git clone https://github.com/yourusername/candidate-recommender.git
-cd candidate-recommender
+git clone https://github.com/IffatKhatib/Candidate-Recommender.git
+cd Candidate-Recommender
+python -m venv venv
+venv\Scripts\activate
+
+# On Windows
 pip install -r requirements.txt
 streamlit run app.py
 ```
