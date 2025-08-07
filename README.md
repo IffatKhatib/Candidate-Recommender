@@ -52,6 +52,8 @@ streamlit run app.py
 
 [Try the App Here](https://candidate-recommender-ik.streamlit.app/)
 
+---
+
 ## Submission Package Includes
 
 - [Live Streamlit App](https://candidate-recommender-ik.streamlit.app/)
